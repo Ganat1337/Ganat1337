@@ -40,6 +40,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganat1337&show_icons=true&theme=tokyonight&hide_border=true" alt="Gannat's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganat1337&show_icons=true&theme=tokyonight&hide_border=true" alt="Gannat's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganat1337&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
