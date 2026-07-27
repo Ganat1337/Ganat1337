@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gannat from Egypt</h1>
+<h1 align="center">Hi 👋, I'm Gannat </h1>
 
 <h3 align="center">
 🎓 CS Freshman | Cybersecurity & Networking Enthusiast 🔒 <br><br>
