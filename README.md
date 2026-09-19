@@ -1,6 +1,6 @@
 # Hi there, I'm Gannat 👋
 
-CS Freshman passionate about Front-End Web Development, Problem Solving, and Networking/Cybersecurity.
+CS student passionate about Front-End Web Development, Problem Solving, and Networking/Cybersecurity.
 
 ---
 
