@@ -1,45 +1,38 @@
-<h1 align="center">Hi 👋, I'm Gannat </h1>
+# Hi there, I'm Gannat 👋
 
-<h3 align="center">
-🎓 CS Freshman | Cybersecurity & Networking Enthusiast 🔒 <br><br>
-💻 <b>Web Dev:</b> Mastered HTML & CSS (Building Projects) ➔ JS ➔ React / Angular <br>
-⚡ <b>Problem Solving:</b> C++ (up to OOP) to sharpen my logic <br>
-🎯 <b>Ultimate Goal:</b> Deep dive into Information & Network Security
-</h3>
+CS Freshman passionate about Front-End Web Development, Problem Solving, and Networking/Cybersecurity.
 
-<br>
+---
 
-- 🔭 I’m currently working on **Leon Agency Template**
-- 🌱 I’m currently learning **JavaScript, React/Angular, Computer Networking**
-- 📫 How to reach me **ganata428@gmail.com**
+### 🚀 What I'm Up To
+- 💻 **Web Dev:** Mastered HTML & CSS ➔ Currently mastering **JavaScript** (DOM/BOM) ➔ Next up: React
+- ⚡ **Problem Solving:** Solving problems in **C++** (OOP) to sharpen logic
+- 🛡️ **Security:** Exploring Computer Networking & Information Security basics
+- 🛠️ **Current Project:** Building & refining web templates and interactive apps
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/ganat-ahmed-8b92b9306" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ganat.ll" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganat1337&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganat1337&layout=compact&theme=tokyonight&hide_border=true" height="140" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganat1337&show_icons=true&theme=tokyonight&hide_border=true" alt="Gannat's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganat1337&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150" />
-</p>
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganat-ahmed-8b92b9306)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ganat.ll)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ganata428@gmail.com)
